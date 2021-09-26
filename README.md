@@ -5,11 +5,11 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
-#### 2nd year BCA student. During day, assisting 
-#### my father at his shop & Coder at night.
+#### Final year CSE student. Love to  
+#### work on beautiful designs
 ### Vibing to : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
-<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
+<!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
 
@@ -33,8 +33,8 @@
   
 <a  href="https://github.com/SP-XD">
   
-<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=SP-XD&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sp-xd&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
+<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshm&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
 
 </a>
 
