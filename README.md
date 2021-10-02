@@ -1,18 +1,7 @@
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"-->
+img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"
 
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
-  
-#### Final year CSE student. Love to  
-#### make beautiful websites
-### Vibing to : 🎧  
-
-![](https://komarev.com/ghpvc/?username=iamshm&style=flat&color=orange&label=PROFILE+VIEWS)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-<!-- [![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/pik0chu007) <br> -->
-
+#### Final year CSE student. Love to make beautiful websites
 </div>
 
 <hr></hr>
