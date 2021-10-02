@@ -19,13 +19,10 @@
 </p>
 
 <hr></hr>
-
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="400"/>
-
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshm&theme=tokyonight)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamshm)](https://github.com/anuraghazra/github-readme-stats)
