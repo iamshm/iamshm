@@ -25,19 +25,18 @@
 <div align="center" >
   
 <a  href="https://github.com/iamshm">
-  
 <img alt="iamshm's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
 <img alt="Top Langs" width="42%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=iamshm&theme=tokyonight" href="https://github.com/iamshm" />
-
 </a>
   
- ## 🧰 Languages and Tools:
+## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <hr></hr>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
