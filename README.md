@@ -21,6 +21,6 @@
 <hr></hr>
 </div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&theme=tokyonight&hide=c#,dart)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&theme=tokyonight&hide=c#,dart&langs_count=10)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamshm&theme=tokyonight)
