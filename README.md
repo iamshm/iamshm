@@ -1,8 +1,6 @@
-img src="https://github.com/SP-XD/SP-XD/blob/main/sunrise_clickedbyme.jpeg?raw=true" width="1000px"
 
-<div align="center" width="50">
 #### Final year CSE student. Love to make beautiful websites
-</div>
+
 
 <hr></hr>
 
