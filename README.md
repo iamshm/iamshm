@@ -24,10 +24,6 @@
 
 <div align="center" >
   
-<a  href="https://github.com/iamshm">
-<img alt="iamshm's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamshm&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=iamshm&theme=tokyonight" href="https://github.com/iamshm" />
-</a>
   
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -44,3 +40,5 @@
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
