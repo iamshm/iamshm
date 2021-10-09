@@ -36,9 +36,8 @@ I’m a final year student pursuing a Bachelors’s in Computer science.. I am a
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=iamshm&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/iamshm" target="blank"><img src="https://img.shields.io/twitter/follow/iamshm?logo=twitter&style=for-the-badge" alt="iamshm" /></a> </p>
+<p align="center"> <a href="https://twitter.com/iamshm" target="blank"><img src="https://img.shields.io/twitter/follow/iamshm?logo=twitter&style=for-the-badge" alt="iamshm" /></a> </p>
 
-- 📫 How to reach me **iamsurajhm@gmail.com**
 <br><br>
 <hr>
 
