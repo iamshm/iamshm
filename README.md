@@ -7,7 +7,7 @@
 <h5 align="center">
 I’m a final year student pursuing a Bachelors’s in Computer science.. I am a well versed web developer and a Design enthusiast.
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshm&label=Profile%20views&color=0e75b6&style=flat" alt="iamshm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamshm&label=Profile%20views&color=0e75b6&style=flat" alt="iamshm" /> </p>
 
 <hr></hr>
 
