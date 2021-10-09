@@ -1,6 +1,13 @@
 
-#### Final year CSE student. Love to make beautiful websites
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Suraj Maharana</h1>
+<h5 align="center">
+I’m a final year student pursuing a Bachelors’s in Computer science.. I am a well versed web developer and a Design enthusiast.
+</h5>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamshm&label=Profile%20views&color=0e75b6&style=flat" alt="iamshm" /> </p>
 
 <hr></hr>
 
@@ -22,14 +29,6 @@
 
 <hr></hr>
 </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />, I'm Suraj Maharana</h1>
-<h5 align="center">
-I’m a final year student pursuing a Bachelors’s in Computer science.. I am a well versed web developer and a Design enthusiast.
-</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikkkkaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
 <p>
 <a align= "center" href="https://github.com/iamshm">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=iamshm&theme=radical">
@@ -37,7 +36,7 @@ I’m a final year student pursuing a Bachelors’s in Computer science.. I am a
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=iamshm&count_private=true&theme=radical&show_icons=true" />
 
-<p align="left"> <a href="https://twitter.com/ishikakesarwan4" target="blank"><img src="https://img.shields.io/twitter/follow/ishikakesarwan4?logo=twitter&style=for-the-badge" alt="ishikakesarwan4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iamshm" target="blank"><img src="https://img.shields.io/twitter/follow/iamshm?logo=twitter&style=for-the-badge" alt="iamshm" /></a> </p>
 
 - 📫 How to reach me **iamsurajhm@gmail.com**
 <br><br>
@@ -47,7 +46,7 @@ I’m a final year student pursuing a Bachelors’s in Computer science.. I am a
 <p align="center">
 <a href="https://twitter.com/iam_shm" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="iamshm" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/suraj99/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="suraj maharana" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <a href="https://instagram.com/wth_ishiii" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a> -->
+<a href="https://www.instagram.com/iam__shm/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="wth_ishiii" height="50" width="50" /></a>
 </p>
 
 <hr>
