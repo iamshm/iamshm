@@ -49,7 +49,3 @@ I’m a final year student pursuing a Bachelors’s in Computer science.. I am a
 </p>
 
 <hr>
-
-<p align="center">
-  <img src="https://github.com/iamshm/iamshm/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
